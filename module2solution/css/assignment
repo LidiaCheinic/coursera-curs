@@ -79,5 +79,11 @@ float: left;
 }
 .col-md-12 {width: 100%;
 }
+#p1{
+width: 50%;
+#p2{
+width:50%;
+}
+}
 }
 @media (max-width: 767px) {}
